@@ -21,3 +21,6 @@ Highlight Article: https://www.nature.com/articles/s41577-024-00993-y (Nature Re
 **CYTOF** - Processed .fcs files (all dead-cells, debris removed, CD45+ cells gated)
 
 **VeloCyto** - Processed .loom file (for the calculation of RNA-velocity)
+
+## Seurat Objects:
+**Neutrophils** - Filtered & Clustered (as visualized in Fig 3.): https://web.tresorit.com/l/9UzVT#pf2ALbHPqrcLuqi7gm-75A
